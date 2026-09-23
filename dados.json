@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "item": "Notebook Dell",
+    "local": "Laboratório 01",
+    "dataRegistro": "2026-09-01",
+    "valor": 3500.00,
+    "patrimonio": "PAT-00125"
+  },
+  {
+    "id": 2,
+    "item": "Projetor Epson",
+    "local": "Sala 03",
+    "dataRegistro": "2026-09-03",
+    "valor": 2800.00,
+    "patrimonio": "PAT-00126"
+  }
+]
