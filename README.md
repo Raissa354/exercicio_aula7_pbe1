@@ -298,3 +298,20 @@ Exclui o equipamento de ID 1.
 O projeto utiliza uma API REST simples para realizar o gerenciamento de um inventário. O método GET é responsável pela consulta dos dados, o POST pelo cadastro de novos itens, o PUT pela alteração dos itens existentes e o DELETE pela exclusão.
 
 Com isso, foi possível criar um sistema básico de gerenciamento de estoque utilizando Node.js, Express, JSON e os principais métodos HTTP.
+
+<h2>foto do projeto</h2>
+<img width="1696" height="967" alt="Captura de tela 2026-09-29 094410" src="https://github.com/user-attachments/assets/38e931ce-2917-48ef-8531-173f27584d79" />
+
+
+<br>
+<img width="1664" height="927" alt="Captura de tela 2026-09-29 094347" src="https://github.com/user-attachments/assets/4ae182eb-62d8-4735-ba97-38d1c0c9c4c0" />
+
+
+<br>
+<img width="1737" height="977" alt="Captura de tela 2026-09-29 094332" src="https://github.com/user-attachments/assets/ccc88c68-7a10-4246-8dc4-8aab00447783" />
+
+
+<br>
+<img width="595" height="491" alt="Captura de tela 2026-09-29 094251" src="https://github.com/user-attachments/assets/de593f44-60f9-45c0-a53f-840f94e41c6a" />
+
+
