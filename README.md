@@ -315,3 +315,9 @@ Com isso, foi possível criar um sistema básico de gerenciamento de estoque uti
 <img width="595" height="491" alt="Captura de tela 2026-09-29 094251" src="https://github.com/user-attachments/assets/de593f44-60f9-45c0-a53f-840f94e41c6a" />
 
 
+## 📚 O que estou aprendendo
+
+- Git
+- GitHub
+- Branches
+- Pull Requests
